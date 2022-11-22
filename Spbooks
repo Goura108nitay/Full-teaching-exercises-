@@ -1,0 +1,80 @@
+<!Doctype html>
+<html>
+<head>
+    <title> SB.7.4.6/en/orig. </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body style="background-color: #C1A70B">
+    <!-- content goes here -->
+    <header><h1 style="text-align: center">
+      <!--canto,chapter,verse goeshere-->
+      SB 7.23.5</h1>
+<div style="text-align: center"><em>
+  <!--sankrit verse-->
+  
+<p class="sans">dhṛtarāṣṭra uvāca</p>
+<p class="sans">dharma-kṣetre kuru-kṣetre</p>
+<p class="sans">samavetā yuyutsavaḥ</p>
+<p class="sans">māmakāḥ pāṇḍavāś caiva</p>
+<p class="sans">kim akurvata sañjaya</p></div></em>
+<!--imige use-->
+<a href="https://vedabase.io/en/">
+<img src="test.jpg" ; style="width: 350px;height:150px;margin-left:20px;class= "ilupic"/></a>
+
+<p class="tran"><span class="sansdifer"><em> 
+<!--word to word translation go here and only for sanskrit is em code-->
+
+dhṛtarāṣṭraḥ uvāca</em></span> — King Dhṛtarāṣṭra said;<span class="sansdifer"><em> dharma-kṣetre</em></span> — in the place of pilgrimage; <span class="sansdifer"><em>kuru-kṣetre</em></span> — in the place named Kurukṣetra;<span class="sansdifer"><em> samavetāḥ</em></span> — assembled;<span class="sansdifer"><em> yuyutsavaḥ </em></span>— desiring to fight;<span class="sansdifer"> <em>māmakāḥ</em></span> — my party (sons);<span class="sansdifer"><em> pāṇḍavāḥ</em></span> — the sons of Pāṇḍu;<span class="sansdifer"><em> ca</em></span> — and;<span class="sansdifer"><em> eva</em></span> — certainly;<span class="sansdifer"><em> kim</em></span> — what; <span class="sansdifer"><em>akurvata</em> </span>— did they do;<span class="sansdifer"> <em>sañjaya</em> </span>— O Sañjaya.</p>
+
+<p class="verse" ; style="color: blue">
+  <!--here is going verse english--> 
+  &nbsp; &nbsp;O my Lord, Śrī Kṛṣṇa, son of Vasudeva, O all-pervading Personality of Godhead, I offer my respectful obeisances unto You. I meditate upon Lord Śrī Kṛṣṇa because He is the Absolute Truth and the primeval cause of all causes of the creation, sustenance and destruction of the manifested universes. He is directly and indirectly conscious of all manifestations, and He is independent because there is no other cause beyond Him. It is He only who first imparted the Vedic knowledge unto the heart of Brahmājī, the original living being. By Him even the great sages and demigods are placed into illusion, as one is bewildered by the illusory representations of water seen in fire, or land seen on water. Only because of Him do the material universes, temporarily manifested by the reactions of the three modes of nature, appear factual, although they are unreal. I therefore meditate upon Him, Lord Śrī Kṛṣṇa, who is eternally existent in the transcendental abode, which is forever free from the illusory representations of the material world. I meditate upon Him, for He is the Absolute Truth.</p></header>
+
+<main> <hr style="width: 50%" color="black" /><p class="purp"; style="color: green ">PURPOSE</p>  <hr style="width: 50%" color="black" />
+<p  class="expl" ;style="font-size: 20px">&nbsp;&nbsp;Obeisances unto the Personality of Godhead, Vāsudeva, directly indicate Lord Śrī Kṛṣṇa, who is the divine son of Vasudeva and Devakī. This fact will be more explicitly explained in the text of this work. Śrī Vyāsadeva asserts herein that Śrī Kṛṣṇa is the original Personality of Godhead, and all others are His direct or indirect plenary portions or portions of the portion. Śrīla Jīva Gosvāmī has even more explicitly explained the subject matter in his Kṛṣṇa-sandarbha. And Brahmā, the original living being, has explained the subject of Śrī Kṛṣṇa substantially in his treatise named Brahma-saṁhitā. In the Sāma-veda Upaniṣad, it is also stated that Lord Śrī Kṛṣṇa is the divine son of Devakī. Therefore, in this prayer, the first proposition holds that Lord Śrī Kṛṣṇa is the primeval Lord, and if any transcendental nomenclature is to be understood as belonging to the Absolute Personality of Godhead, it must be the name indicated by the word Kṛṣṇa, which means the all-attractive. In Bhagavad-gītā, in many places, the Lord asserts Himself to be the original Personality of Godhead, and this is confirmed by Arjuna, and also by great sages like Nārada, Vyāsa, and many others. In the Padma Purāṇa, it is also stated that out of the innumerable names of the Lord, the name of Kṛṣṇa is the principal one. Vāsudeva indicates the plenary portion of the Personality of Godhead, and all the different forms of the Lord, being identical with Vāsudeva, are indicated in this text. The name Vāsudeva particularly indicates the divine son of Vasudeva and Devakī. Śrī Kṛṣṇa is always meditated upon by the paramahaṁsas, who are the perfected ones among those in the renounced order of life.</p>
+<dl>
+  <dt>hare krishna gouranga</dt>
+  <dd>this amazing matra</dd>
+  
+</dl>
+</main>
+<footer>
+    <!-- Buttons for move page-->
+     
+     <nav> <button class="previous"> <a href="http://localhost:8158/theorie.html/"target="_blank"> << Previous page
+      </a> </button>
+      
+      <button class="next"> 
+      <a href="http://localhost:8158/index2.html/" target="_blank">
+ Next Page >>
+        </a></button> </nav>
+        </footer>
+        
+        <p > order book </p>
+        <form action="sample-page-handler.html" method="GET">
+       <input type="text" name="fullname" placeholder="Full Name" /> <br />
+       <input type="text" name="adress" placeholder="Adress" /> <br />
+       <input type="text" name="favourite_food" placeholder="Favorite Food" /> <br />
+       <input type="text" name="hobby" placeholder="Hobby" /> <br />
+       <input type="submit" />
+</body>
+</html>
+
+ <style> 
+ <!-- here goes background adjustions-->
+ h1 {color: maroon} 
+  .verse {font-size: 24px;} 
+  .sans {font-size: 24px;font-family: italic;} 
+  .purp { text-align: center;font-size: 23px} 
+  .expl  {font-size: 20px;}
+  .next { margin-left:160px ;color: black;background-color: #C1A70B; border: none}
+   .previous {color: black;background-color: #C1A70B; border: none}
+   .sansdifer { color: green;}
+   .tran { font-size: 18px;}
+   
+   
+    </style>
+    
+   
+  
+  
